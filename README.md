@@ -1,3 +1,22 @@
+## Technical Task Brief
+
+### Employee List Table with Search Functionality and Responsiveness
+
+Your task is to create an employee list table with the following requirements:
+
+1. **Employee List Table**: 
+   - Display a table that lists employees with details such as name, position, department, and any other relevant information.
+  
+2. **Search Functionality**: 
+   - Implement a search bar that allows users to filter the employee list based on keywords (e.g., name, department).
+
+3. **Responsiveness**: 
+   - Ensure that the table is responsive and adjusts to different screen sizes, providing a good user experience on both desktop and mobile devices.
+
+### Requirements
+- Use React for building the application.
+- The design should be clean and user-friendly.
+- Optimize performance and ensure the application is efficient.
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
